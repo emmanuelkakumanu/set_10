@@ -10,7 +10,7 @@ class Ideone
 		int a=s.nextInt();
 		int b=s.nextInt();
 		int n=s.nextInt();
-		int sum=a;
+		int sum=0;
 		for(int i=a;n!=0;i=i+b)
 		{
 			sum=sum+i;
